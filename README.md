@@ -4,7 +4,6 @@ A simple **Command-Line Interface (CLI) Calculator** built in Python.
 This project is created as part of **Task 1: Build a Calculator CLI App** for the Python Developer Internship.
 
 📌 Project Objective
-
 To create a command-line calculator that supports basic arithmetic operations using:
 
 * Functions
