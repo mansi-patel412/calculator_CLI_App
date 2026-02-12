@@ -90,9 +90,9 @@ Submission includes:
 
 👤 Author
 
-**Name:** Patel Mansi J
-**Project:** Calculator CLI App
-**Task:** Internship Task 1
+Name: Mansi Patel
+Project:Calculator CLI App
+Task:Internship Task 1
 
 ✅ Status
 **Completed Successfully ✅**
